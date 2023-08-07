@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/code-hub/static/css/main.5c88f2d7.css",
+    "main.js": "/code-hub/static/js/main.edf62e0f.js",
+    "static/js/787.65ea37f6.chunk.js": "/code-hub/static/js/787.65ea37f6.chunk.js",
+    "index.html": "/code-hub/index.html",
+    "main.5c88f2d7.css.map": "/code-hub/static/css/main.5c88f2d7.css.map",
+    "main.edf62e0f.js.map": "/code-hub/static/js/main.edf62e0f.js.map",
+    "787.65ea37f6.chunk.js.map": "/code-hub/static/js/787.65ea37f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c88f2d7.css",
+    "static/js/main.edf62e0f.js"
+  ]
+}
